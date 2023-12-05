@@ -1,0 +1,11 @@
+territory_id,territory_ak,territory_name,territory_country_region_code,territory_group
+1,43689a10-e30b-497f-b0de-11de20267ff7,'Northwest',US,North America
+2,00fb7309-96cc-49e2-8363-0a1ba72486f2,'Northeast',US,North America
+3,df6e7fd8-1a8d-468c-b103-ed8addb452c1,'Central',US,North America
+4,dc3e9ea0-7950-4431-9428-99dbcbc33865,'Southwest',US,North America
+5,6dc4165a-5e4c-42d2-809d-4344e0ac75e7,'Southeast',US,North America
+6,06b4af8a-1639-476e-9266-110461d66b00,'Canada',CA,North America
+7,bf806804-9b4c-4b07-9d19-706f2e689552,'France',FR,Europe
+8,6d2450db-8159-414f-a917-e73ee91c38a9,'Germany',DE,Europe
+9,602e612e-dfe9-41d9-b894-27e489747885,'Australia',AU,Pacific
+10,05fc7e1f-2dea-414e-9ecd-09d150516fb5,'United Kingdom',GB,Europe

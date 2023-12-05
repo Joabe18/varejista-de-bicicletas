@@ -1,0 +1,505 @@
+product_id,product_ak,product_name,product_color,product_subcategory,product_category,list_price,standard_cost
+1,694215b7-08f7-4c0d-acb1-d734ba44c0c8,'Adjustable Race',,,,0.00,0.00
+2,58ae3c20-4f3a-4749-a7d4-d568806cc537,'Bearing Ball',,,,0.00,0.00
+3,9c21aed2-5bfa-4f18-bcb8-f11638dc2e4e,'BB Ball Bearing',,,,0.00,0.00
+4,ecfed6cb-51ff-49b5-b06c-7d8ac834db8b,'Headset Ball Bearings',,,,0.00,0.00
+316,e73e9750-603b-4131-89f5-3dd15ed5ff80,'Blade',,,,0.00,0.00
+317,3c9d10b7-a6b2-4774-9963-c19dcee72fea,'LL Crankarm','Black',,,0.00,0.00
+318,eabb9a92-fa07-4eab-8955-f0517b4a4ca7,'ML Crankarm','Black',,,0.00,0.00
+319,7d3fd384-4f29-484b-86fa-4206e276fe58,'HL Crankarm','Black',,,0.00,0.00
+320,7be38e48-b7d6-4486-888e-f53c26735101,'Chainring Bolts','Silver',,,0.00,0.00
+321,3314b1d7-ef69-4431-b6dd-dc75268bd5df,'Chainring Nut','Silver',,,0.00,0.00
+322,f0ac2c4d-1a1f-4e3c-b4d9-68aea0ec1ce4,'Chainring','Black',,,0.00,0.00
+323,51a32ca6-65a1-4c31-af2b-d9e4f5d631d4,'Crown Race',,,,0.00,0.00
+324,fe0678ed-aef2-4c58-a450-8151cc24ddd8,'Chain Stays',,,,0.00,0.00
+325,05ce123c-a402-478e-ae9b-75d7727aeaad,'Decal 1',,,,0.00,0.00
+326,a56851f9-1cd7-4e2f-8779-2e773e1b5209,'Decal 2',,,,0.00,0.00
+327,1dad47dd-e259-42b8-b8b4-15a0b7d21b2f,'Down Tube',,,,0.00,0.00
+328,6070b1ea-59b7-4f8b-950f-2be07d00449d,'Mountain End Caps',,,,0.00,0.00
+329,88399d13-719e-4545-81d6-f0650f372fa2,'Road End Caps',,,,0.00,0.00
+330,6903ce24-d0ce-4191-9198-4231de37a929,'Touring End Caps',,,,0.00,0.00
+331,c91d602e-da52-43d2-bd7e-eb110a9392b9,'Fork End',,,,0.00,0.00
+332,d864879a-e8b1-4f7b-bafa-1f136089c2c8,'Freewheel','Silver',,,0.00,0.00
+341,a3f2fa3a-22e1-43d8-a131-a9b89c32d8ea,'Flat Washer 1',,,,0.00,0.00
+342,331addec-e9b9-4a7e-9324-42069c2dcdc4,'Flat Washer 6',,,,0.00,0.00
+343,84a3473e-ae26-4a21-81b9-60bb418a79b2,'Flat Washer 2',,,,0.00,0.00
+344,0ae4ce60-5242-48f5-ada1-3013ff45f969,'Flat Washer 9',,,,0.00,0.00
+345,2c1c58b4-234c-4b3a-8c8e-84524ac05eea,'Flat Washer 4',,,,0.00,0.00
+346,590c2c3f-a8b6-42b5-9412-d655e37f0eae,'Flat Washer 3',,,,0.00,0.00
+347,1b73f5fe-ab85-49fc-99ad-0500cebda91d,'Flat Washer 8',,,,0.00,0.00
+348,d182cf18-4ddf-429b-a0df-de1cfc92622d,'Flat Washer 5',,,,0.00,0.00
+349,7e55f64d-ea3c-45ff-be72-f7f7b9d61a79,'Flat Washer 7',,,,0.00,0.00
+350,1cbfa85b-5c9b-4b58-9c17-95238215d926,'Fork Crown',,,,0.00,0.00
+351,01c901e3-4323-48ed-ab9e-9bfda28bdef6,'Front Derailleur Cage','Silver',,,0.00,0.00
+352,88ed2e08-e775-4915-b506-831600b773fd,'Front Derailleur Linkage','Silver',,,0.00,0.00
+355,6a89205b-90c3-4997-8c63-bc6a5ebc752d,'Guide Pulley',,,,0.00,0.00
+356,32c82181-1969-4660-ae04-a02d51994ec1,'LL Grip Tape',,,,0.00,0.00
+357,09343e22-2494-4279-9f32-5d961a0fbfea,'ML Grip Tape',,,,0.00,0.00
+358,8e5b2bf7-81dd-4454-b75e-d9ae2a6fbd26,'HL Grip Tape',,,,0.00,0.00
+359,a63aff3c-4143-4016-bc99-d3f80ec1ade5,'Thin-Jam Hex Nut 9',,,,0.00,0.00
+360,a1ae0c6d-92a5-4fda-b33b-1301e83efe5b,'Thin-Jam Hex Nut 10',,,,0.00,0.00
+361,e33e8c4c-282a-4d1f-91e7-e9969cf7134f,'Thin-Jam Hex Nut 1',,,,0.00,0.00
+362,a992684f-4642-4856-a817-2c0740ae8c55,'Thin-Jam Hex Nut 2',,,,0.00,0.00
+363,b9d9a30d-cb07-422d-a312-f0535575337e,'Thin-Jam Hex Nut 15',,,,0.00,0.00
+364,0ec8f653-24c9-41b6-86f5-39c1789db580,'Thin-Jam Hex Nut 16',,,,0.00,0.00
+365,94506c9d-5991-46a7-82ea-00e05d8d9b9c,'Thin-Jam Hex Nut 5',,,,0.00,0.00
+366,71e984c6-1d11-4cf2-baee-6c8df494bdad,'Thin-Jam Hex Nut 6',,,,0.00,0.00
+367,efc09cdb-ecd5-4db5-9e27-277dda6d7f50,'Thin-Jam Hex Nut 3',,,,0.00,0.00
+368,0a0c93aa-d06c-48aa-99eb-20f2c8a6d6c4,'Thin-Jam Hex Nut 4',,,,0.00,0.00
+369,a2728648-9517-4dec-8606-d7d98ecd1e91,'Thin-Jam Hex Nut 13',,,,0.00,0.00
+370,0a7ad37c-3696-4844-8633-9fddcd5fcefc,'Thin-Jam Hex Nut 14',,,,0.00,0.00
+371,acbb1de1-680c-4034-a8c5-3c6b01e57aa7,'Thin-Jam Hex Nut 7',,,,0.00,0.00
+372,a0da8f8f-45fb-4e62-ab14-aa229087de1e,'Thin-Jam Hex Nut 8',,,,0.00,0.00
+373,db99cbcd-f18d-4979-8dcf-1012f3b1cb15,'Thin-Jam Hex Nut 12',,,,0.00,0.00
+374,ec2e54f5-9d07-4c26-b969-40f835395be3,'Thin-Jam Hex Nut 11',,,,0.00,0.00
+375,f2f3a14c-df15-4957-966d-55e5fcad1161,'Hex Nut 5',,,,0.00,0.00
+376,e73e44dd-f0b7-45d4-9066-e49f1b1fe7d0,'Hex Nut 6',,,,0.00,0.00
+377,2b2a5641-bffe-4079-b9f0-8bf355bc3996,'Hex Nut 16',,,,0.00,0.00
+378,f70bbecd-5be7-4ee9-a9e7-15786e622ba9,'Hex Nut 17',,,,0.00,0.00
+379,ba3631d1-33d6-4a2f-8413-758bfda6f9c2,'Hex Nut 7',,,,0.00,0.00
+380,b478b33a-1fd5-4db6-b99a-eb3b2a7c1623,'Hex Nut 8',,,,0.00,0.00
+381,da46d979-59df-456d-b5ae-e7e89fc589df,'Hex Nut 9',,,,0.00,0.00
+382,2f457404-197d-4ddf-9868-a3aad1b32d6b,'Hex Nut 22',,,,0.00,0.00
+383,5f02449e-96e5-4fc8-ade0-8a9a7f533624,'Hex Nut 23',,,,0.00,0.00
+384,32c97696-7c3d-4793-a54b-3d73200badbc,'Hex Nut 12',,,,0.00,0.00
+385,8f0902d0-274d-4a4b-8fde-e37f53b2ab29,'Hex Nut 13',,,,0.00,0.00
+386,57456f8c-cb78-45ec-b9b8-21a9be5c12f5,'Hex Nut 1',,,,0.00,0.00
+387,955811b4-2f17-48f0-a8b4-0c96cba4aa6d,'Hex Nut 10',,,,0.00,0.00
+388,7d4bad17-374f-4281-9ae5-49abc3fe585d,'Hex Nut 11',,,,0.00,0.00
+389,17c4b7ba-8574-4ec7-bd3b-7a51aba61f69,'Hex Nut 2',,,,0.00,0.00
+390,b4e990b7-b3f7-4f97-8f98-ce373833adb4,'Hex Nut 20',,,,0.00,0.00
+391,433ee702-e028-4630-895c-8cdbd0f1fd89,'Hex Nut 21',,,,0.00,0.00
+392,ee76fae0-161e-409c-a6f5-837b5b8b344d,'Hex Nut 3',,,,0.00,0.00
+393,eb10b88c-5351-4c06-af51-116baa48a2c8,'Hex Nut 14',,,,0.00,0.00
+394,35e28755-e8f0-47be-a8be-a20836dbe28d,'Hex Nut 15',,,,0.00,0.00
+395,69ab8d5e-6101-4203-81b1-794e923782ea,'Hex Nut 4',,,,0.00,0.00
+396,39d42384-66f6-4ccd-b471-0589fc3fc576,'Hex Nut 18',,,,0.00,0.00
+397,b63f827e-9055-4678-9e90-4ffd8d06d4d4,'Hex Nut 19',,,,0.00,0.00
+398,9f88c58e-5cfa-46c9-8994-da4f3ffe92ed,'Handlebar Tube',,,,0.00,0.00
+399,b047c048-b4fb-4f80-94bc-c5fc00a6f77f,'Head Tube',,,,0.00,0.00
+400,ab332dda-dda5-44ad-8c50-34ffaceffa8e,'LL Hub',,,,0.00,0.00
+401,d59403a3-d19e-4803-bda2-b436a6416fda,'HL Hub',,,,0.00,0.00
+402,43024784-2741-4cab-a6dc-8050ce507f2e,'Keyed Washer',,,,0.00,0.00
+403,763412f0-6d53-43e2-b371-dcbed69f5e98,'External Lock Washer 3',,,,0.00,0.00
+404,89b6e84f-5c08-4cd9-b803-01f2ce24e417,'External Lock Washer 4',,,,0.00,0.00
+405,3330a721-e8cb-4e67-8d27-300db68c2395,'External Lock Washer 9',,,,0.00,0.00
+406,39314098-768b-49f9-a777-af2e3bb06b17,'External Lock Washer 5',,,,0.00,0.00
+407,93f7bc73-bd22-45a0-9f2e-a11932342e6b,'External Lock Washer 7',,,,0.00,0.00
+408,dc5f4cb0-a599-42cd-a96f-e9f01bc1dacc,'External Lock Washer 6',,,,0.00,0.00
+409,802b7687-bc74-43f8-98ae-2112166faca7,'External Lock Washer 1',,,,0.00,0.00
+410,02c48826-21ad-41f3-85a6-bc9a85a4dce4,'External Lock Washer 8',,,,0.00,0.00
+411,502a2a3d-cd72-43ad-8fb6-77505187edf4,'External Lock Washer 2',,,,0.00,0.00
+412,f1168c45-e4d2-4c37-adad-b76eaf402b71,'Internal Lock Washer 3',,,,0.00,0.00
+413,7f7413bb-bad2-47e4-9bc4-d98b194be35d,'Internal Lock Washer 4',,,,0.00,0.00
+414,4f040109-8332-4fcf-8084-57e6d8c49283,'Internal Lock Washer 9',,,,0.00,0.00
+415,0c02f2cc-bdb4-4794-a4f9-0eb33f7545c2,'Internal Lock Washer 5',,,,0.00,0.00
+416,3c2ac5bc-3f49-4fa4-8340-bc4cda983f46,'Internal Lock Washer 7',,,,0.00,0.00
+417,7f175dfe-1669-4ee9-8eeb-7b55fce9961c,'Internal Lock Washer 6',,,,0.00,0.00
+418,c8323eec-bdb2-4933-b3c6-24287638ad56,'Internal Lock Washer 10',,,,0.00,0.00
+419,71f8232d-2b59-41ac-99a1-f5ea197671b5,'Internal Lock Washer 1',,,,0.00,0.00
+420,e2f03586-02e8-4cd9-a342-1a8d65d393bd,'Internal Lock Washer 8',,,,0.00,0.00
+421,97741a88-92a1-4e72-b0aa-bcb198a1c378,'Internal Lock Washer 2',,,,0.00,0.00
+422,7da2613b-3347-4072-a1dc-943ada161d7f,'Thin-Jam Lock Nut 9',,,,0.00,0.00
+423,a88f15be-2719-4741-93a4-2d96ef3712eb,'Thin-Jam Lock Nut 10',,,,0.00,0.00
+424,48461e5d-d58a-47e5-8ba3-ce4430fca611,'Thin-Jam Lock Nut 1',,,,0.00,0.00
+425,36187eb6-ad84-47b7-a55e-2941d3435fe2,'Thin-Jam Lock Nut 2',,,,0.00,0.00
+426,99215648-afe8-4556-bc80-b6c62ae74fc8,'Thin-Jam Lock Nut 15',,,,0.00,0.00
+427,b4fc4c32-049c-417f-bbb0-f19cdfd64252,'Thin-Jam Lock Nut 16',,,,0.00,0.00
+428,a57b7915-2e65-49de-87ba-acd007c55adb,'Thin-Jam Lock Nut 5',,,,0.00,0.00
+429,5abd940c-d61f-4108-8312-0ea97e469613,'Thin-Jam Lock Nut 6',,,,0.00,0.00
+430,9883496f-4785-4bfc-8af3-c357347b9f89,'Thin-Jam Lock Nut 3',,,,0.00,0.00
+431,8c5ee683-d93c-4f25-9454-22faa4c31365,'Thin-Jam Lock Nut 4',,,,0.00,0.00
+432,38e4a447-3d3c-4087-abad-97f006525b52,'Thin-Jam Lock Nut 13',,,,0.00,0.00
+433,dce24b6c-76d8-4934-a4f6-c934364943ea,'Thin-Jam Lock Nut 14',,,,0.00,0.00
+434,344ad07c-cca5-4374-a3f3-8a7e0a1d9916,'Thin-Jam Lock Nut 7',,,,0.00,0.00
+435,b2508cf2-c64f-493d-9db4-0d6601af1f73,'Thin-Jam Lock Nut 8',,,,0.00,0.00
+436,5d3e589f-4584-406b-b9cc-3c8c060cb9a5,'Thin-Jam Lock Nut 12',,,,0.00,0.00
+437,64169a28-161c-4737-b724-f42ffd99de80,'Thin-Jam Lock Nut 11',,,,0.00,0.00
+438,eb4c1d34-4816-4130-bb30-07b4de4072b6,'Lock Nut 5',,,,0.00,0.00
+439,98ccbb38-4683-486e-bbfe-cbbe4ea63c03,'Lock Nut 6',,,,0.00,0.00
+440,bbfd88f8-28c5-44ee-b625-52e882393dfc,'Lock Nut 16',,,,0.00,0.00
+441,92dc4ba8-a052-45df-83ec-226f050f876b,'Lock Nut 17',,,,0.00,0.00
+442,d583d825-c707-4529-b6f2-abffa21b81ec,'Lock Nut 7',,,,0.00,0.00
+443,e91c3dc2-c99b-4d01-8108-5dde3c87830a,'Lock Nut 8',,,,0.00,0.00
+444,06534a20-4c00-4824-8bba-b4e3a5724d93,'Lock Nut 9',,,,0.00,0.00
+445,1e4fa4ec-367e-4d8d-88b4-6cd34d1cfb89,'Lock Nut 22',,,,0.00,0.00
+446,afa814c8-8ec8-49db-9fee-a291197a8fe9,'Lock Nut 23',,,,0.00,0.00
+447,9a751f85-7130-4562-9f22-db9cab6e5bbc,'Lock Nut 12',,,,0.00,0.00
+448,06be8347-45c1-4c40-afcb-6ab34ad135fb,'Lock Nut 13',,,,0.00,0.00
+449,1dc29704-e0e0-4ef5-b581-4a524730c448,'Lock Nut 1',,,,0.00,0.00
+450,612c26c7-6018-4050-b628-8b2d2e6841fa,'Lock Nut 10',,,,0.00,0.00
+451,5bcc4558-6c16-48f1-92f0-fd2eefb17306,'Lock Nut 11',,,,0.00,0.00
+452,53ad147d-c16d-4a8c-b086-625a31405574,'Lock Nut 2',,,,0.00,0.00
+453,2749030e-49b7-4b24-8d47-fbcf194aba38,'Lock Nut 20',,,,0.00,0.00
+454,e10a7b34-87f5-42cd-88b3-27a3d8e16b18,'Lock Nut 21',,,,0.00,0.00
+455,aa5071eb-2145-4d08-9d33-b9d2ba9e1493,'Lock Nut 3',,,,0.00,0.00
+456,1e96b03d-dc07-4a98-bc24-bf5b24c393e5,'Lock Nut 14',,,,0.00,0.00
+457,ce04de2b-4eca-4203-a108-b7d92ff0e96e,'Lock Nut 15',,,,0.00,0.00
+458,41bd9389-8b22-4a35-9a2c-233d39ada7ea,'Lock Nut 4',,,,0.00,0.00
+459,5986504b-22a0-4e74-a137-c7cf99a8216f,'Lock Nut 19',,,,0.00,0.00
+460,a420963f-92fd-4cd4-8531-6926e4162c41,'Lock Nut 18',,,,0.00,0.00
+461,aeca59da-b61c-4976-8316-97e14cd4eff1,'Lock Ring','Silver',,,0.00,0.00
+462,dbb962bf-0603-4095-959b-5ba9c74fbd32,'Lower Head Race',,,,0.00,0.00
+463,a3ee3bc5-73c5-45f3-a952-9991d038dd9c,'Lock Washer 4',,,,0.00,0.00
+464,ecaed08d-2cf5-4d81-a4ed-8369e25af227,'Lock Washer 5',,,,0.00,0.00
+465,a2212bab-af58-41a5-a659-a6141c8967ca,'Lock Washer 10',,,,0.00,0.00
+466,9092f2e1-3637-4669-8565-55404a55750e,'Lock Washer 6',,,,0.00,0.00
+467,3cb31f4a-c61c-408c-be1e-48bee412e511,'Lock Washer 13',,,,0.00,0.00
+468,900d26e6-21a0-427d-b43c-173f6dcb2045,'Lock Washer 8',,,,0.00,0.00
+469,5402ea37-29df-47ff-9fc7-867d60594c48,'Lock Washer 1',,,,0.00,0.00
+470,99357255-e66b-458c-ab2e-6f68ef5452d2,'Lock Washer 7',,,,0.00,0.00
+471,7bc9d58e-3e62-481f-8343-beb0883b3ecf,'Lock Washer 12',,,,0.00,0.00
+472,5f201424-9e6a-4f8d-9c2c-30777e27d64f,'Lock Washer 2',,,,0.00,0.00
+473,f9426fb2-1e68-464e-bf32-615026e0249e,'Lock Washer 9',,,,0.00,0.00
+474,ac007b7f-73b7-4623-8150-02444c5ec023,'Lock Washer 3',,,,0.00,0.00
+475,639d8448-b427-47b1-9e5b-0e5090a27632,'Lock Washer 11',,,,0.00,0.00
+476,e876e239-7ec2-45c8-ba4b-b9ceacb379a6,'Metal Angle',,,,0.00,0.00
+477,8b5429ce-7876-44b3-9332-baf78a238b36,'Metal Bar 1',,,,0.00,0.00
+478,2a14f60e-3827-49ba-af13-466dbc30c5ba,'Metal Bar 2',,,,0.00,0.00
+479,0773a2c9-f47f-429e-814a-25b2e08c128a,'Metal Plate 2',,,,0.00,0.00
+480,242389be-dde0-42a1-85d9-f99fdc981336,'Metal Plate 1',,,,0.00,0.00
+481,8b7e90e5-7785-455e-bc7c-e962f18c6848,'Metal Plate 3',,,,0.00,0.00
+482,8bb96dfb-23aa-4877-9c5e-866bb18facc7,'Metal Sheet 2',,,,0.00,0.00
+483,9074e00d-005b-450e-9c92-6667782e8108,'Metal Sheet 3',,,,0.00,0.00
+484,a9539885-0cee-4aa0-9072-8db1d34a16db,'Metal Sheet 7',,,,0.00,0.00
+485,3cb3cf7d-ab8e-44a3-b7e9-73149f5ec29f,'Metal Sheet 4',,,,0.00,0.00
+486,2a2c555d-328d-4299-bd83-591d0762df62,'Metal Sheet 5',,,,0.00,0.00
+487,64844011-a1c3-4f8f-9caa-9c8d214ecc12,'Metal Sheet 6',,,,0.00,0.00
+488,3b2febc6-c76c-4a56-9cf7-8af5b76e24ee,'Metal Sheet 1',,,,0.00,0.00
+489,d2177b6c-3352-43f0-9a41-719754dd280c,'Metal Tread Plate',,,,0.00,0.00
+490,88310f73-ab0a-41a2-8597-936f192b7d12,'LL Nipple',,,,0.00,0.00
+491,88a7b897-6ff5-4ca2-b68a-6ea0e86f92b9,'HL Nipple',,,,0.00,0.00
+492,df20e514-3d47-491b-9454-0911ec3f7d29,'Paint - Black',,,,0.00,0.00
+493,4c568357-5d21-4ad4-bb85-bb5519b3b50c,'Paint - Red',,,,0.00,0.00
+494,fa81e47d-7333-49c2-809b-308171ca2fb1,'Paint - Silver',,,,0.00,0.00
+495,25a73761-ae90-49d3-8d1d-dd7858db4704,'Paint - Blue',,,,0.00,0.00
+496,1c8adb43-9fe8-44a6-b949-8af33ce9486e,'Paint - Yellow',,,,0.00,0.00
+497,f1694c24-dfab-4c92-bc66-6e717db24ea8,'Pinch Bolt',,,,0.00,0.00
+504,874c800e-334d-4a3c-8d3a-1e872d5b2a1b,'Cup-Shaped Race',,,,0.00,0.00
+505,35ce3995-9dd2-40e2-98b8-275931ac2d76,'Cone-Shaped Race',,,,0.00,0.00
+506,1c850499-38ed-4c2d-8665-7edb6a7ce93d,'Reflector',,,,0.00,0.00
+507,b2cc7dfb-783d-4587-88c0-2712a538a5b2,'LL Mountain Rim',,,,0.00,0.00
+508,733fd04d-322f-44f5-beec-f326189d1ce6,'ML Mountain Rim',,,,0.00,0.00
+509,9fa4a3b5-d396-48d4-adfc-b573bc4a800a,'HL Mountain Rim',,,,0.00,0.00
+510,c2770757-b258-4eec-a811-6856faf87437,'LL Road Rim',,,,0.00,0.00
+511,80108059-0002-4253-a805-53a2324c33a4,'ML Road Rim',,,,0.00,0.00
+512,cd9b5c44-fb31-4e0f-9905-3b2086966cc5,'HL Road Rim',,,,0.00,0.00
+513,4852db13-308a-4893-aafa-390a0dfe9f12,'Touring Rim',,,,0.00,0.00
+514,fcfc0a4f-4563-4e0b-bff4-5ddcfe3a9273,'LL Mountain Seat Assembly',,,,133.34,98.77
+515,d3c8ae4c-a1be-448d-bf58-6ecbf36afa0b,'ML Mountain Seat Assembly',,,,147.14,108.99
+516,9e18adab-b9c7-45b1-bd95-1805ec4f297d,'HL Mountain Seat Assembly',,,,196.92,145.87
+517,f5a30b8d-f35b-43f2-83a0-f7f6b51f6241,'LL Road Seat Assembly',,,,133.34,98.77
+518,ad109395-fda9-4c2a-96f1-515ccde3d9f4,'ML Road Seat Assembly',,,,147.14,108.99
+519,7b52ee2a-7100-4a39-a0af-c89012da6ef8,'HL Road Seat Assembly',,,,196.92,145.87
+520,af3d83ba-4b8e-4072-817f-e6b095a1c879,'LL Touring Seat Assembly',,,,133.34,98.77
+521,85b9a3de-000c-4351-9494-05796689c216,'ML Touring Seat Assembly',,,,147.14,108.99
+522,8c471bca-a735-4087-ad50-90ede0ac1a1b,'HL Touring Seat Assembly',,,,196.92,145.87
+523,d2bd1f55-2cd4-4998-89fa-28ff2e28de2c,'LL Spindle/Axle',,,,0.00,0.00
+524,6ce0661d-ba1f-4012-b785-55165b3b241a,'HL Spindle/Axle',,,,0.00,0.00
+525,ae7bcda7-e836-4f68-9e61-745f27f9aa3e,'LL Shell',,,,0.00,0.00
+526,d215a3ae-aaf2-4cb0-9d20-3758aad078e2,'HL Shell',,,,0.00,0.00
+527,5aabb729-343b-4084-a235-ccb3da9f29e7,'Spokes',,,,0.00,0.00
+528,4a898b1e-9a3b-4beb-9873-a7465934051a,'Seat Lug',,,,0.00,0.00
+529,1173306e-b616-4c4a-b715-4e0a483ba2b5,'Stem',,,,0.00,0.00
+530,9b4ceb84-4e84-43f3-b326-9b7f22905363,'Seat Post',,,,0.00,0.00
+531,f3b140a1-b139-4bb5-b144-1b7cbbee6c9a,'Steerer',,,,0.00,0.00
+532,20c2c611-dffc-49b5-99cf-d89bdd3a91ce,'Seat Stays',,,,0.00,0.00
+533,41f5388b-7253-4002-bcc6-b2a50920d11f,'Seat Tube',,,,0.00,0.00
+534,4c0bad8e-066b-46b8-bfe9-da61539606e8,'Top Tube',,,,0.00,0.00
+535,13df62b2-8a7b-47d5-9084-f1172c4779e4,'Tension Pulley',,,,0.00,0.00
+679,912b03ea-4447-48c8-85da-09b80ab26340,'Rear Derailleur Cage','Silver',,,0.00,0.00
+680,43dd68d6-14a4-461f-9069-55309d90ea7e,"'HL Road Frame - Black, 58'",'Black','Road Frames','Components',1431.50,1059.31
+706,9540ff17-2712-4c90-a3d1-8ce5568b2462,"'HL Road Frame - Red, 58'",'Red','Road Frames','Components',1431.50,1059.31
+707,2e1ef41a-c08a-4ff6-8ada-bde58b64a712,"'Sport-100 Helmet, Red'",'Red','Helmets','Accessories',34.99,13.09
+708,a25a44fb-c2de-4268-958f-110b8d7621e2,"'Sport-100 Helmet, Black'",'Black','Helmets','Accessories',34.99,13.09
+709,18f95f47-1540-4e02-8f1f-cc1bcb6828d0,"'Mountain Bike Socks, M'",'White','Socks','Clothing',9.50,3.40
+710,161c035e-21b3-4e14-8e44-af508f35d80a,"'Mountain Bike Socks, L'",'White','Socks','Clothing',9.50,3.40
+711,fd7c0858-4179-48c2-865b-abd5dfc7bc1d,"'Sport-100 Helmet, Blue'",'Blue','Helmets','Accessories',34.99,13.09
+712,b9ede243-a6f4-4629-b1d4-ffe1aedc6de7,'AWC Logo Cap','Multi','Caps','Clothing',8.99,6.92
+713,fd449c82-a259-4fae-8584-6ca0255faf68,"'Long-Sleeve Logo Jersey, S'",'Multi','Jerseys','Clothing',49.99,38.49
+714,6a290063-a0cf-432a-8110-2ea0fda14308,"'Long-Sleeve Logo Jersey, M'",'Multi','Jerseys','Clothing',49.99,38.49
+715,34cf5ef5-c077-4ea0-914a-084814d5cbd5,"'Long-Sleeve Logo Jersey, L'",'Multi','Jerseys','Clothing',49.99,38.49
+716,6ec47ec9-c041-4dda-b686-2125d539ce9b,"'Long-Sleeve Logo Jersey, XL'",'Multi','Jerseys','Clothing',49.99,38.49
+717,052e4f8b-0a2a-46b2-9f42-10febcfae416,"'HL Road Frame - Red, 62'",'Red','Road Frames','Components',1431.50,868.63
+718,a88d3b54-2cae-43f2-8c6e-ea1d97b46a7c,"'HL Road Frame - Red, 44'",'Red','Road Frames','Components',1431.50,868.63
+719,07befc9a-7634-402b-b234-d7797733baaf,"'HL Road Frame - Red, 48'",'Red','Road Frames','Components',1431.50,868.63
+720,fcfea68f-310e-4e6e-9f99-bb17d011ebae,"'HL Road Frame - Red, 52'",'Red','Road Frames','Components',1431.50,868.63
+721,56c85873-4993-41b4-8096-1067cfd7e4bd,"'HL Road Frame - Red, 56'",'Red','Road Frames','Components',1431.50,868.63
+722,2140f256-f705-4d67-975d-32de03265838,"'LL Road Frame - Black, 58'",'Black','Road Frames','Components',337.22,204.63
+723,aa95e2a5-e7c4-4b74-b1ea-b52ee3b51537,"'LL Road Frame - Black, 60'",'Black','Road Frames','Components',337.22,204.63
+724,5247be33-50bf-4527-8a30-a39aae500a8e,"'LL Road Frame - Black, 62'",'Black','Road Frames','Components',337.22,204.63
+725,137d319d-44ad-42b2-ab61-60b9ce52b5f2,"'LL Road Frame - Red, 44'",'Red','Road Frames','Components',337.22,187.16
+726,35213547-275f-4767-805d-c8a4b8e13745,"'LL Road Frame - Red, 48'",'Red','Road Frames','Components',337.22,187.16
+727,c455e0b3-d716-419d-abf0-7e03efdd2e26,"'LL Road Frame - Red, 52'",'Red','Road Frames','Components',337.22,187.16
+728,799a56ff-5ad2-41b3-bfac-528b477ad129,"'LL Road Frame - Red, 58'",'Red','Road Frames','Components',337.22,187.16
+729,1784bb14-d1f5-4b24-92da-9127ad179302,"'LL Road Frame - Red, 60'",'Red','Road Frames','Components',337.22,187.16
+730,7e73aa1f-8569-4d87-9f80-ac2e513e0803,"'LL Road Frame - Red, 62'",'Red','Road Frames','Components',337.22,187.16
+731,459e041c-3234-409e-b4cd-81728f8a2398,"'ML Road Frame - Red, 44'",'Red','Road Frames','Components',594.83,352.14
+732,b673189c-c042-413b-8194-73bc44b0492c,"'ML Road Frame - Red, 48'",'Red','Road Frames','Components',594.83,352.14
+733,55ea276b-82d8-4ccb-9ab1-9b1b75b15a83,"'ML Road Frame - Red, 52'",'Red','Road Frames','Components',594.83,352.14
+734,df4ce1e2-ba9a-4657-b999-ccfa6c55d9c1,"'ML Road Frame - Red, 58'",'Red','Road Frames','Components',594.83,352.14
+735,b2e48e8c-63a5-469a-ba4c-4f5ebb1104a4,"'ML Road Frame - Red, 60'",'Red','Road Frames','Components',594.83,352.14
+736,c9967889-f490-4a66-943a-bce432e938d8,"'LL Road Frame - Black, 44'",'Black','Road Frames','Components',337.22,204.63
+737,3b5f29b6-a441-4ff7-a0fa-fad10e2ceb4c,"'LL Road Frame - Black, 48'",'Black','Road Frames','Components',337.22,204.63
+738,18fc5d72-a012-4dc7-bb35-0d01a84d0219,"'LL Road Frame - Black, 52'",'Black','Road Frames','Components',337.22,204.63
+739,8ae32663-8d6f-457d-8343-5b181fec43a7,"'HL Mountain Frame - Silver, 42'",'Silver','Mountain Frames','Components',1364.50,747.20
+740,1909c60c-c490-411d-b3e6-12ddd7832482,"'HL Mountain Frame - Silver, 44'",'Silver','Mountain Frames','Components',1364.50,706.81
+741,b181ec1f-ca20-4724-b2eb-15f3e455142e,"'HL Mountain Frame - Silver, 48'",'Silver','Mountain Frames','Components',1364.50,706.81
+742,a189d86e-d923-4336-b13d-a5db6f426540,"'HL Mountain Frame - Silver, 46'",'Silver','Mountain Frames','Components',1364.50,747.20
+743,27db28f8-5ab8-4091-b94e-6f1b2d8e7ab0,"'HL Mountain Frame - Black, 42'",'Black','Mountain Frames','Components',1349.60,739.04
+744,cb443286-6b25-409f-a10b-1ad4eeb4bd4e,"'HL Mountain Frame - Black, 44'",'Black','Mountain Frames','Components',1349.60,699.09
+745,1fee0573-6676-432d-8d6d-41ba9faa5865,"'HL Mountain Frame - Black, 48'",'Black','Mountain Frames','Components',1349.60,699.09
+746,50abebcb-451e-42b9-8dbb-e5c4a34470e9,"'HL Mountain Frame - Black, 46'",'Black','Mountain Frames','Components',1349.60,739.04
+747,0c548577-3171-4ce2-b9a0-1ed526849de8,"'HL Mountain Frame - Black, 38'",'Black','Mountain Frames','Components',1349.60,739.04
+748,f246acaa-a80b-40ec-9208-02edef885129,"'HL Mountain Frame - Silver, 38'",'Silver','Mountain Frames','Components',1364.50,747.20
+749,bc621e1f-2553-4fdc-b22e-5e44a9003569,"'Road-150 Red, 62'",'Red','Road Bikes','Bikes',3578.27,2171.29
+750,c19e1136-5da4-4b40-8758-54a85d7ea494,"'Road-150 Red, 44'",'Red','Road Bikes','Bikes',3578.27,2171.29
+751,d10b7cc1-455e-435b-a08f-ec5b1c5776e9,"'Road-150 Red, 48'",'Red','Road Bikes','Bikes',3578.27,2171.29
+752,5e085ba0-3cd5-487f-85bb-79ed1c701f23,"'Road-150 Red, 52'",'Red','Road Bikes','Bikes',3578.27,2171.29
+753,30819b88-f0d3-4e7a-8105-19f6fac2cefb,"'Road-150 Red, 56'",'Red','Road Bikes','Bikes',3578.27,2171.29
+754,40d5effa-c0c4-479f-af66-5f1bf8ed3bfb,"'Road-450 Red, 58'",'Red','Road Bikes','Bikes',1457.99,884.71
+755,181a90cb-3678-490e-8418-78f73fb5343d,"'Road-450 Red, 60'",'Red','Road Bikes','Bikes',1457.99,884.71
+756,f8b5e26a-3d33-4e39-b500-cc21a133062e,"'Road-450 Red, 44'",'Red','Road Bikes','Bikes',1457.99,884.71
+757,c72c9978-0b04-46b3-9de6-948feca1c86e,"'Road-450 Red, 48'",'Red','Road Bikes','Bikes',1457.99,884.71
+758,040a4b7d-4060-4507-aa92-7508b434797e,"'Road-450 Red, 52'",'Red','Road Bikes','Bikes',1457.99,884.71
+759,6711d6bc-664f-4890-9f69-af1de321d055,"'Road-650 Red, 58'",'Red','Road Bikes','Bikes',782.99,486.71
+760,664867e5-4ab3-4783-96f9-42efde92f49b,"'Road-650 Red, 60'",'Red','Road Bikes','Bikes',782.99,486.71
+761,1da14e09-6d71-4e2a-9ee9-1bdfdfd8a109,"'Road-650 Red, 62'",'Red','Road Bikes','Bikes',782.99,486.71
+762,f247aaae-12e3-4048-a37b-cce4a8999e81,"'Road-650 Red, 44'",'Red','Road Bikes','Bikes',782.99,486.71
+763,3da5fa6e-9e0f-4896-ac10-948c27f4eb79,"'Road-650 Red, 48'",'Red','Road Bikes','Bikes',782.99,486.71
+764,07cfe1ea-8a37-4d2a-835f-bc8d37e564af,"'Road-650 Red, 52'",'Red','Road Bikes','Bikes',782.99,486.71
+765,74645b12-3ce9-49a6-bd96-2cd814b37420,"'Road-650 Black, 58'",'Black','Road Bikes','Bikes',782.99,486.71
+766,a2db196d-6640-49ea-a84f-2e87ca6f50c6,"'Road-650 Black, 60'",'Black','Road Bikes','Bikes',782.99,486.71
+767,c82a8309-63d3-4c0c-ad71-e91272397095,"'Road-650 Black, 62'",'Black','Road Bikes','Bikes',782.99,486.71
+768,11d563ac-115c-4f0d-a1e5-e946eee8b38b,"'Road-650 Black, 44'",'Black','Road Bikes','Bikes',782.99,486.71
+769,a7e2179e-137c-497e-a5e6-c9ea64935fb0,"'Road-650 Black, 48'",'Black','Road Bikes','Bikes',782.99,486.71
+770,136e2865-e0da-4624-963a-31349279ab1a,"'Road-650 Black, 52'",'Black','Road Bikes','Bikes',782.99,486.71
+771,ca74b54e-fc30-4464-8b83-019bfd1b2dbb,"'Mountain-100 Silver, 38'",'Silver','Mountain Bikes','Bikes',3399.99,1912.15
+772,bbfff5a5-4bdc-49a9-a5ad-7584adffe808,"'Mountain-100 Silver, 42'",'Silver','Mountain Bikes','Bikes',3399.99,1912.15
+773,155fd77e-d6d6-43f0-8a5b-4a8305eb45cd,"'Mountain-100 Silver, 44'",'Silver','Mountain Bikes','Bikes',3399.99,1912.15
+774,ba5551df-c9ee-4b43-b3ca-8c19d0f9384d,"'Mountain-100 Silver, 48'",'Silver','Mountain Bikes','Bikes',3399.99,1912.15
+775,dea33347-fcd3-4346-aa0f-068cd6b3ad06,"'Mountain-100 Black, 38'",'Black','Mountain Bikes','Bikes',3374.99,1898.09
+844,aaf7a076-9ee3-46bf-a69f-414d847e858b,'Minipump',,'Pumps','Accessories',19.99,8.25
+776,02935111-a546-4c6d-941f-be12d42c158e,"'Mountain-100 Black, 42'",'Black','Mountain Bikes','Bikes',3374.99,1898.09
+777,7920bc3b-8fd4-4610-93d2-e693a66b6474,"'Mountain-100 Black, 44'",'Black','Mountain Bikes','Bikes',3374.99,1898.09
+778,1b486300-7e64-4c5d-a9ba-a8368e20c5a0,"'Mountain-100 Black, 48'",'Black','Mountain Bikes','Bikes',3374.99,1898.09
+779,3a45d835-abae-4806-ac03-c53abcd3b974,"'Mountain-200 Silver, 38'",'Silver','Mountain Bikes','Bikes',2319.99,1265.62
+780,ce4849b4-56e6-4b50-808b-9bde67cc4704,"'Mountain-200 Silver, 42'",'Silver','Mountain Bikes','Bikes',2319.99,1265.62
+781,20799030-420c-496a-9922-09189c2b457e,"'Mountain-200 Silver, 46'",'Silver','Mountain Bikes','Bikes',2319.99,1265.62
+782,82cb8f9b-b8bb-4841-98d3-bcdb807c4dd8,"'Mountain-200 Black, 38'",'Black','Mountain Bikes','Bikes',2294.99,1251.98
+783,2b0af5b9-7571-4621-b760-47df599f9650,"'Mountain-200 Black, 42'",'Black','Mountain Bikes','Bikes',2294.99,1251.98
+784,33f42284-e216-4b98-ba48-b4ee18a01fa0,"'Mountain-200 Black, 46'",'Black','Mountain Bikes','Bikes',2294.99,1251.98
+785,f06c2cbf-0901-4c08-80ed-fb4e87171b3b,"'Mountain-300 Black, 38'",'Black','Mountain Bikes','Bikes',1079.99,598.44
+786,580d4322-be03-4c91-83d2-ee33ec6008ab,"'Mountain-300 Black, 40'",'Black','Mountain Bikes','Bikes',1079.99,598.44
+787,07c2a548-0452-47b4-9dce-6edb0a30c85e,"'Mountain-300 Black, 44'",'Black','Mountain Bikes','Bikes',1079.99,598.44
+788,16078dbe-388d-4c18-aa8f-0c8f48035468,"'Mountain-300 Black, 48'",'Black','Mountain Bikes','Bikes',1079.99,598.44
+789,0aa71ad6-afaf-43c6-9745-35d815b50a5b,"'Road-250 Red, 44'",'Red','Road Bikes','Bikes',2443.35,1518.79
+790,115ddade-70e3-43f9-80dc-638daea271c4,"'Road-250 Red, 48'",'Red','Road Bikes','Bikes',2443.35,1518.79
+791,c9fd1df4-9512-420a-b379-067108033b75,"'Road-250 Red, 52'",'Red','Road Bikes','Bikes',2443.35,1518.79
+792,df629c11-8d8b-4774-9d52-ecb64dc95212,"'Road-250 Red, 58'",'Red','Road Bikes','Bikes',2443.35,1554.95
+793,1ff419b5-52af-4f7e-aeae-4fec5e99de35,"'Road-250 Black, 44'",'Black','Road Bikes','Bikes',2443.35,1554.95
+794,9d165ddf-8f5d-41c7-9bb8-13f41a3d1f62,"'Road-250 Black, 48'",'Black','Road Bikes','Bikes',2443.35,1554.95
+795,74fe3957-cbc3-450a-ab92-849bd13530e2,"'Road-250 Black, 52'",'Black','Road Bikes','Bikes',2443.35,1554.95
+796,1c530fe8-a169-4adc-b3dc-b11a48245e63,"'Road-250 Black, 58'",'Black','Road Bikes','Bikes',2443.35,1554.95
+797,aad81532-a572-49a5-83c3-dfa9e3b4fea6,"'Road-550-W Yellow, 38'",'Yellow','Road Bikes','Bikes',1120.49,713.08
+798,a35a1c35-c128-4697-951e-4199062e78f3,"'Road-550-W Yellow, 40'",'Yellow','Road Bikes','Bikes',1120.49,713.08
+799,a359ab09-16f2-4726-a60f-0dfdb1c9527e,"'Road-550-W Yellow, 42'",'Yellow','Road Bikes','Bikes',1120.49,713.08
+800,0a7028fb-ff06-4d38-aaa1-b64816278165,"'Road-550-W Yellow, 44'",'Yellow','Road Bikes','Bikes',1120.49,713.08
+801,c90cc877-804c-4ce7-afc3-4c8791a13dfb,"'Road-550-W Yellow, 48'",'Yellow','Road Bikes','Bikes',1120.49,713.08
+802,fb8502be-07eb-4134-ab06-c3a9959a52ae,'LL Fork',,'Forks','Components',148.22,65.81
+803,f5fa4e2f-b976-48a4-bf79-85632f697d2e,'ML Fork',,'Forks','Components',175.49,77.92
+804,553229b3-1ad9-4a71-a21c-2af4332cfce9,'HL Fork',,'Forks','Components',229.49,101.89
+805,bb6bd7b3-a34d-4d64-822e-781fa6838e19,'LL Headset',,'Headsets','Components',34.20,15.18
+806,23b5d52b-8c29-4059-b899-75c53b5ee2e6,'ML Headset',,'Headsets','Components',102.29,45.42
+807,12e4d5e8-79ed-4bcb-a532-6275d1a93417,'HL Headset',,'Headsets','Components',124.73,55.38
+808,b59b7bf2-7afc-4a74-b063-f942f1e0da19,'LL Mountain Handlebars',,'Handlebars','Components',44.54,19.78
+809,ae6020df-d9c9-4d34-9795-1f80e6bbf5a5,'ML Mountain Handlebars',,'Handlebars','Components',61.92,27.49
+810,6aa0f921-0f09-4f99-8d3c-335946873553,'HL Mountain Handlebars',,'Handlebars','Components',120.27,53.40
+811,acdae407-b40e-435e-8e84-1bfc33013e81,'LL Road Handlebars',,'Handlebars','Components',44.54,19.78
+812,33fa1a03-38d6-405e-be9b-eea92f3d204f,'ML Road Handlebars',,'Handlebars','Components',61.92,27.49
+813,5c5327b9-ad2e-4c33-8d74-edf49e0c2dd8,'HL Road Handlebars',,'Handlebars','Components',120.27,53.40
+814,0d879312-a7d3-441d-9d23-b6550bab3814,"'ML Mountain Frame - Black, 38'",'Black','Mountain Frames','Components',348.76,185.82
+815,d7b1d161-182e-44f6-a9ff-9c1eba76613b,'LL Mountain Front Wheel','Black','Wheels','Components',60.75,26.97
+816,5e3e5033-9a77-4dca-8b7f-dfed78efa08a,'ML Mountain Front Wheel','Black','Wheels','Components',209.03,92.81
+817,3c8ffff6-a8dc-45a3-963b-a6284ced7596,'HL Mountain Front Wheel','Black','Wheels','Components',300.22,133.30
+818,9e66de78-decb-438a-b9a9-023c773c60a2,'LL Road Front Wheel','Black','Wheels','Components',85.57,37.99
+819,6ea94fbf-b9aa-43fc-84e8-91d508dde751,'ML Road Front Wheel','Black','Wheels','Components',248.39,110.28
+820,727a3cd5-8d40-4884-a7e4-dfd3ffdeb164,'HL Road Front Wheel','Black','Wheels','Components',330.06,146.55
+821,8d1cdb07-4fa1-4ac1-840f-a16c3dca5009,'Touring Front Wheel','Black','Wheels','Components',218.01,96.80
+822,22976fa7-0ad0-40f9-b4f9-ba10279ea1a3,"'ML Road Frame-W - Yellow, 38'",'Yellow','Road Frames','Components',594.83,360.94
+823,e6c39f58-995f-4786-a309-df3812d8b30f,'LL Mountain Rear Wheel','Black','Wheels','Components',87.75,38.96
+824,b2f7cf9b-a7bf-49ab-9cca-9f6e791cd693,'ML Mountain Rear Wheel','Black','Wheels','Components',236.03,104.80
+825,35d02edc-1120-41fb-b5df-8655a93b3353,'HL Mountain Rear Wheel','Black','Wheels','Components',327.22,145.28
+826,78d01117-8dcd-465f-9dc7-94a2cdc35582,'LL Road Rear Wheel','Black','Wheels','Components',112.57,49.98
+827,cf739f9a-0af0-4810-b229-c431a31d7779,'ML Road Rear Wheel','Black','Wheels','Components',275.39,122.27
+828,8f262a37-43aa-4ad5-ae1f-8bd6967d8e9b,'HL Road Rear Wheel','Black','Wheels','Components',357.06,158.53
+829,30d2254d-e26d-4586-b4c5-e8ccb8a059b8,'Touring Rear Wheel','Black','Wheels','Components',245.01,108.78
+830,aed1c9c4-c139-45d2-b38e-0a0a9f518665,"'ML Mountain Frame - Black, 40'",'Black','Mountain Frames','Components',348.76,185.82
+831,3f2135d4-ec5f-4e30-bde8-5444518f0637,"'ML Mountain Frame - Black, 44'",'Black','Mountain Frames','Components',348.76,185.82
+832,c2009b69-f15a-47ec-b710-1809d299318a,"'ML Mountain Frame - Black, 48'",'Black','Mountain Frames','Components',348.76,185.82
+833,22df26f2-60bc-493e-a14a-5500633e9f7e,"'ML Road Frame-W - Yellow, 40'",'Yellow','Road Frames','Components',594.83,360.94
+834,207b54da-5404-415d-8578-9a45082e3bf1,"'ML Road Frame-W - Yellow, 42'",'Yellow','Road Frames','Components',594.83,360.94
+835,a0fad492-ac24-4fcf-8d2a-d21d06386ae1,"'ML Road Frame-W - Yellow, 44'",'Yellow','Road Frames','Components',594.83,360.94
+836,8487bfe0-2138-471e-9c6d-fdb3a67e7d86,"'ML Road Frame-W - Yellow, 48'",'Yellow','Road Frames','Components',594.83,360.94
+837,5dce9c8c-fb94-46f8-b826-11658f6a3682,"'HL Road Frame - Black, 62'",'Black','Road Frames','Components',1431.50,868.63
+838,e4902656-a4bc-4b08-9d47-4f3da0fd76c3,"'HL Road Frame - Black, 44'",'Black','Road Frames','Components',1431.50,868.63
+839,557b603b-407b-41a4-ae34-4f7747866dba,"'HL Road Frame - Black, 48'",'Black','Road Frames','Components',1431.50,868.63
+840,0ed082b3-fbba-43af-9149-8741b9fc78c8,"'HL Road Frame - Black, 52'",'Black','Road Frames','Components',1431.50,868.63
+841,34b08c1f-99d1-43c4-8ef7-2cd754b6665d,"'Men''s Sports Shorts, S'",'Black','Shorts','Clothing',59.99,24.75
+842,56334fff-91d4-495e-bf98-933bc1010f23,"'Touring-Panniers, Large'",'Grey','Panniers','Accessories',125.00,51.56
+843,56ffd7b9-1014-4640-b1bd-b2649589b4d7,'Cable Lock',,'Locks','Accessories',25.00,10.31
+845,57169f80-fafb-4678-8f51-fe1f131d0c83,'Mountain Pump',,'Pumps','Accessories',24.99,10.31
+846,3c617b87-50a5-434c-a0d3-22314b7027ee,'Taillights - Battery-Powered',,'Lights','Accessories',13.99,5.77
+847,417db6cb-f38f-4b0d-87e7-e1ebf7456c3a,'Headlights - Dual-Beam',,'Lights','Accessories',34.99,14.43
+848,fc362c1a-4b9c-4d5f-a6d3-0775846c61f0,'Headlights - Weatherproof',,'Lights','Accessories',44.99,18.56
+849,db37b435-74b9-43d3-b363-abbead107bc4,"'Men''s Sports Shorts, M'",'Black','Shorts','Clothing',59.99,24.75
+850,714184c5-669b-4cf1-a802-30e7b1ea7722,"'Men''s Sports Shorts, L'",'Black','Shorts','Clothing',59.99,24.75
+851,bd3ffe40-fe2e-44cb-a4e0-81786c3a751f,"'Men''s Sports Shorts, XL'",'Black','Shorts','Clothing',59.99,24.75
+852,7de86c98-4f5b-4155-8572-c977f14ebaeb,"'Women''s Tights, S'",'Black','Tights','Clothing',74.99,30.93
+853,4d8e186c-b8c9-4c64-b411-4995dd87e316,"'Women''s Tights, M'",'Black','Tights','Clothing',74.99,30.93
+854,e378c2f3-54f6-4ea9-b049-e8bb32b5bdfd,"'Women''s Tights, L'",'Black','Tights','Clothing',74.99,30.93
+855,9f60af1e-4c11-4e90-baea-48e834e8b4c2,"'Men''s Bib-Shorts, S'",'Multi','Bib-Shorts','Clothing',89.99,37.12
+856,e0cbec04-f4fc-450f-9780-f8ea7691febd,"'Men''s Bib-Shorts, M'",'Multi','Bib-Shorts','Clothing',89.99,37.12
+857,e1df75a4-9986-489e-a5de-ad3da824eb5e,"'Men''s Bib-Shorts, L'",'Multi','Bib-Shorts','Clothing',89.99,37.12
+858,9e1db5c3-539d-4061-9433-d762dc195cd8,"'Half-Finger Gloves, S'",'Black','Gloves','Clothing',24.49,9.16
+859,9d458fd5-392d-4ab1-afef-6a5548e48858,"'Half-Finger Gloves, M'",'Black','Gloves','Clothing',24.49,9.16
+860,fa710215-925f-4959-81df-538e72a6a255,"'Half-Finger Gloves, L'",'Black','Gloves','Clothing',24.49,9.16
+861,76fac097-1fb3-456b-8fb9-2c7a613771b4,"'Full-Finger Gloves, S'",'Black','Gloves','Clothing',37.99,15.67
+862,1084221e-1890-443e-9d87-afcad6358355,"'Full-Finger Gloves, M'",'Black','Gloves','Clothing',37.99,15.67
+863,6116f9d4-8a1d-4022-a642-9c445c197203,"'Full-Finger Gloves, L'",'Black','Gloves','Clothing',37.99,15.67
+864,eb423ef3-409d-46fe-b35b-d69970820314,"'Classic Vest, S'",'Blue','Vests','Clothing',63.50,23.75
+865,2e52f96e-64a1-4069-911c-e3fd6e094a1e,"'Classic Vest, M'",'Blue','Vests','Clothing',63.50,23.75
+866,3211f5a8-b6c4-48bd-9aa4-d69cb40d97dd,"'Classic Vest, L'",'Blue','Vests','Clothing',63.50,23.75
+867,22616fd2-b99f-4f7d-acf6-33dff66d42d2,"'Women''s Mountain Shorts, S'",'Black','Shorts','Clothing',69.99,26.18
+868,968e3610-e583-42e8-8ab6-484a799b1774,"'Women''s Mountain Shorts, M'",'Black','Shorts','Clothing',69.99,26.18
+869,1a66b244-5ca0-4153-b539-ae048d14faec,"'Women''s Mountain Shorts, L'",'Black','Shorts','Clothing',69.99,26.18
+870,834e8d1a-69a7-4c42-8b68-fa08d9ec9e5b,'Water Bottle - 30 oz.',,'Bottles and Cages','Accessories',4.99,1.87
+871,684491de-63f8-4632-90e3-36773c4e63bd,'Mountain Bottle Cage',,'Bottles and Cages','Accessories',9.99,3.74
+872,601b1fe8-d4d0-4cfb-9379-29481cc05291,'Road Bottle Cage',,'Bottles and Cages','Accessories',8.99,3.36
+873,36e638e4-68df-411b-930a-daad57221aa6,'Patch Kit/8 Patches',,'Tires and Tubes','Accessories',2.29,0.86
+874,b9c7eb0a-1dd1-4a1d-b4c3-1dad83a8ea7e,"'Racing Socks, M'",'White','Socks','Clothing',8.99,3.36
+875,c0a16305-74b7-4fae-b5c9-3e8bd0e44762,"'Racing Socks, L'",'White','Socks','Clothing',8.99,3.36
+876,7a0c4bbd-9679-4f59-9ebc-9daf3439a38a,'Hitch Rack - 4-Bike',,'Bike Racks','Accessories',120.00,44.88
+877,3c40b5ad-e328-4715-88a7-ec3220f02acf,'Bike Wash - Dissolver',,'Cleaners','Accessories',7.95,2.97
+878,e6e76c7f-c145-4cad-a9e8-b1e4e845a2c0,'Fender Set - Mountain',,'Fenders','Accessories',21.98,8.22
+879,c7bb564b-a637-40f5-b21b-cbf7e4f713be,'All-Purpose Bike Stand',,'Bike Stands','Accessories',159.00,59.47
+880,a99d90c0-05e2-4e44-ad90-c55c9f0784de,'Hydration Pack - 70 oz.','Silver','Hydration Packs','Accessories',54.99,20.57
+881,05b2e20f-2399-4cb3-9b49-b28d6649c104,"'Short-Sleeve Classic Jersey, S'",'Yellow','Jerseys','Clothing',53.99,41.57
+882,bbbf003b-367d-4d71-af71-10f50b6234a0,"'Short-Sleeve Classic Jersey, M'",'Yellow','Jerseys','Clothing',53.99,41.57
+883,2d9f59b8-9f24-46eb-98ad-553e48bb9db9,"'Short-Sleeve Classic Jersey, L'",'Yellow','Jerseys','Clothing',53.99,41.57
+884,906d42f6-c21f-4d20-b528-02ffdb55fd1e,"'Short-Sleeve Classic Jersey, XL'",'Yellow','Jerseys','Clothing',53.99,41.57
+885,c49679bd-96a9-4176-a7ed-5bc6d6444647,"'HL Touring Frame - Yellow, 60'",'Yellow','Touring Frames','Components',1003.91,601.74
+886,8d4d52a6-8abc-4c05-be4d-c067faf1a64e,"'LL Touring Frame - Yellow, 62'",'Yellow','Touring Frames','Components',333.42,199.85
+887,137675a7-34cd-4b7a-abe1-4e0eeb79b65d,"'HL Touring Frame - Yellow, 46'",'Yellow','Touring Frames','Components',1003.91,601.74
+888,105ec6e5-30c5-4fe3-a08b-cb324c85323d,"'HL Touring Frame - Yellow, 50'",'Yellow','Touring Frames','Components',1003.91,601.74
+889,12b1f317-c39b-48d0-b1a7-8018c60aea53,"'HL Touring Frame - Yellow, 54'",'Yellow','Touring Frames','Components',1003.91,601.74
+890,8bbd3437-a58b-41a0-9503-fc14b23e7678,"'HL Touring Frame - Blue, 46'",'Blue','Touring Frames','Components',1003.91,601.74
+891,c4244f0c-abce-451b-a895-83c0e6d1f448,"'HL Touring Frame - Blue, 50'",'Blue','Touring Frames','Components',1003.91,601.74
+892,e9aae947-6bc3-4909-8937-3e1cdcec8a8f,"'HL Touring Frame - Blue, 54'",'Blue','Touring Frames','Components',1003.91,601.74
+893,b01951a4-a581-4d10-9dc2-515da180f1b8,"'HL Touring Frame - Blue, 60'",'Blue','Touring Frames','Components',1003.91,601.74
+894,5ebfcf02-4e3e-443a-ad60-5aeef28dac76,'Rear Derailleur','Silver','Derailleurs','Components',121.46,53.93
+895,b78eccca-fa88-4071-9110-410585127e46,"'LL Touring Frame - Blue, 50'",'Blue','Touring Frames','Components',333.42,199.85
+896,0ff799c9-dd11-4b81-aaf7-65410017405b,"'LL Touring Frame - Blue, 54'",'Blue','Touring Frames','Components',333.42,199.85
+897,ccd4fa47-7194-4bd0-909b-1fa4bd7916a7,"'LL Touring Frame - Blue, 58'",'Blue','Touring Frames','Components',333.42,199.85
+898,08a211a5-dcd2-42d0-9276-64d92d4890a6,"'LL Touring Frame - Blue, 62'",'Blue','Touring Frames','Components',333.42,199.85
+899,109cb7bc-6ec6-4a36-85c8-55b843b2ab12,"'LL Touring Frame - Yellow, 44'",'Yellow','Touring Frames','Components',333.42,199.85
+900,285fd682-c647-49d1-b8f3-368a43c9cda0,"'LL Touring Frame - Yellow, 50'",'Yellow','Touring Frames','Components',333.42,199.85
+901,2536e3b2-d4da-49e6-965a-f612c2c8914f,"'LL Touring Frame - Yellow, 54'",'Yellow','Touring Frames','Components',333.42,199.85
+902,5d17ff1c-f50e-438f-a4e9-7c400fb762e7,"'LL Touring Frame - Yellow, 58'",'Yellow','Touring Frames','Components',333.42,199.85
+903,e9c17be7-f4dc-465e-ab73-c0198f37bfdd,"'LL Touring Frame - Blue, 44'",'Blue','Touring Frames','Components',333.42,199.85
+904,a7dde43e-f7d5-4075-a0c1-c866ad7aa154,"'ML Mountain Frame-W - Silver, 40'",'Silver','Mountain Frames','Components',364.09,199.38
+905,d4a2fcad-1e63-4ebd-863c-5a7c48d5b8d9,"'ML Mountain Frame-W - Silver, 42'",'Silver','Mountain Frames','Components',364.09,199.38
+906,82025c63-7b28-412d-92c1-408e0e6ae646,"'ML Mountain Frame-W - Silver, 46'",'Silver','Mountain Frames','Components',364.09,199.38
+907,5946f163-93f0-4141-b17e-55d9778cc274,'Rear Brakes','Silver','Brakes','Components',106.50,47.29
+908,4dab53c5-31e7-47d6-a5a0-940f8d4dad22,'LL Mountain Seat/Saddle',,'Saddles','Components',27.12,12.04
+909,30222244-0fd8-4d28-8448-f2e658bf52bd,'ML Mountain Seat/Saddle',,'Saddles','Components',39.14,17.38
+910,a96a5024-87de-488a-bf81-bc0c81f6cd18,'HL Mountain Seat/Saddle',,'Saddles','Components',52.64,23.37
+911,31b9bc62-792b-4e7a-a24d-411dc76e0271,'LL Road Seat/Saddle',,'Saddles','Components',27.12,12.04
+912,49845afe-a8cc-4354-a5d4-09d35bf7fb9e,'ML Road Seat/Saddle',,'Saddles','Components',39.14,17.38
+913,2befe629-4b2a-41a1-a009-df13ead69105,'HL Road Seat/Saddle',,'Saddles','Components',52.64,23.37
+914,7874a1d6-7a5b-412f-a2eb-c2f457b9603d,'LL Touring Seat/Saddle',,'Saddles','Components',27.12,12.04
+915,072acb72-7796-4bd0-9bbb-6efc29ac336c,'ML Touring Seat/Saddle',,'Saddles','Components',39.14,17.38
+916,0e158724-934d-4a64-991f-94fec00bdea8,'HL Touring Seat/Saddle',,'Saddles','Components',52.64,23.37
+917,37bd4d2b-346b-4c6b-8f3f-85c084282529,"'LL Mountain Frame - Silver, 42'",'Silver','Mountain Frames','Components',264.05,144.59
+918,393a4d00-7428-41f0-a48a-af26b00e9a9c,"'LL Mountain Frame - Silver, 44'",'Silver','Mountain Frames','Components',264.05,144.59
+919,8dfef6f2-91a8-4884-8949-b2551218b37a,"'LL Mountain Frame - Silver, 48'",'Silver','Mountain Frames','Components',264.05,144.59
+920,f230baac-5951-4eb1-b1e8-94c2ca2b37fa,"'LL Mountain Frame - Silver, 52'",'Silver','Mountain Frames','Components',264.05,144.59
+921,01a8c3fc-ed52-458e-a634-d5b6e2accfed,'Mountain Tire Tube',,'Tires and Tubes','Accessories',4.99,1.87
+922,ea442bd7-f69b-42d9-aa71-95e10b648f52,'Road Tire Tube',,'Tires and Tubes','Accessories',3.99,1.49
+923,179fec38-cab5-4a47-bcff-31cfc9e43a3c,'Touring Tire Tube',,'Tires and Tubes','Accessories',4.99,1.87
+924,faabd7fb-cb35-4bad-8857-ec71468686ad,"'LL Mountain Frame - Black, 42'",'Black','Mountain Frames','Components',249.79,136.79
+925,47ab0300-7b55-4d35-a786-80190976b9b5,"'LL Mountain Frame - Black, 44'",'Black','Mountain Frames','Components',249.79,136.79
+926,408435aa-15c0-41e5-981f-32a8226af15f,"'LL Mountain Frame - Black, 48'",'Black','Mountain Frames','Components',249.79,136.79
+927,4800f4e6-99ea-4afd-a392-2cb05265d0d4,"'LL Mountain Frame - Black, 52'",'Black','Mountain Frames','Components',249.79,136.79
+928,76060a93-949c-48ea-9b31-a593d6c14983,'LL Mountain Tire',,'Tires and Tubes','Accessories',24.99,9.35
+929,daff9e11-6254-432d-8c4f-f06e52687184,'ML Mountain Tire',,'Tires and Tubes','Accessories',29.99,11.22
+930,ddad25f5-0445-4b5c-8466-6446930ad8b8,'HL Mountain Tire',,'Tires and Tubes','Accessories',35.00,13.09
+931,15b569a6-d172-42c2-a420-62ab5946cc80,'LL Road Tire',,'Tires and Tubes','Accessories',21.49,8.04
+932,d1016cc5-c12b-4f05-915c-70fa062e4a64,'ML Road Tire',,'Tires and Tubes','Accessories',24.99,9.35
+933,c86de56a-5048-4b89-b7c7-56bc75c9bcee,'HL Road Tire',,'Tires and Tubes','Accessories',32.60,12.19
+934,9d5ca300-5302-41e1-bca5-8ce5b93f26a5,'Touring Tire',,'Tires and Tubes','Accessories',28.99,10.84
+935,9fdd0c65-b2b0-4c6c-8704-3a9747be5174,'LL Mountain Pedal','Silver/Black','Pedals','Components',40.49,17.98
+936,274c86dc-439e-4469-9de8-7e9bd6455d0d,'ML Mountain Pedal','Silver/Black','Pedals','Components',62.09,27.57
+937,a05464e8-6b4d-42b3-a4d6-8683136f4b66,'HL Mountain Pedal','Silver/Black','Pedals','Components',80.99,35.96
+938,2c7dd8c3-4c55-475f-ba58-f4baca520d72,'LL Road Pedal','Silver/Black','Pedals','Components',40.49,17.98
+939,216ad46f-bc3f-4862-b0e9-2e261e5a6059,'ML Road Pedal','Silver/Black','Pedals','Components',62.09,27.57
+940,44e96967-ab99-41ed-8b41-5bc70a5ca1a9,'HL Road Pedal','Silver/Black','Pedals','Components',80.99,35.96
+941,6967c816-3ebb-45fa-8547-cef00e08573e,'Touring Pedal','Silver/Black','Pedals','Components',80.99,35.96
+942,ba3646b0-1487-426e-ab4e-57d42e6f9233,"'ML Mountain Frame-W - Silver, 38'",'Silver','Mountain Frames','Components',364.09,199.38
+943,3050e4df-2bba-4c2b-bdcc-b4c89972db1c,"'LL Mountain Frame - Black, 40'",'Black','Mountain Frames','Components',249.79,136.79
+944,756f862e-40cc-4dfc-b189-716d0dda5ff9,"'LL Mountain Frame - Silver, 40'",'Silver','Mountain Frames','Components',264.05,144.59
+945,448e9e7b-9548-4a4c-abb3-853686aa7517,'Front Derailleur','Silver','Derailleurs','Components',91.49,40.62
+946,a2f1352e-45d0-42c4-aef3-60033073bb66,'LL Touring Handlebars',,'Handlebars','Components',46.09,20.46
+947,cb524e92-4fa8-4f6c-9993-60796856c654,'HL Touring Handlebars',,'Handlebars','Components',91.57,40.66
+948,c1813164-1b4b-42d1-9007-4e5f9aee0e19,'Front Brakes','Silver','Brakes','Components',106.50,47.29
+949,41d47371-4374-46d3-8d61-b07616ec54f0,'LL Crankset','Black','Cranksets','Components',175.49,77.92
+950,d3a7a02c-a3d5-4a04-9454-0c4e43772b78,'ML Crankset','Black','Cranksets','Components',256.49,113.88
+951,2c4a8956-7b72-48fe-b028-699e117b1daa,'HL Crankset','Black','Cranksets','Components',404.99,179.82
+952,5d27e2a5-27ec-4ccb-ba2c-fc980ffe6708,'Chain','Silver','Chains','Components',20.24,8.99
+953,f1bb3957-8d27-47f3-91ec-c71822d11436,"'Touring-2000 Blue, 60'",'Blue','Touring Bikes','Bikes',1214.85,755.15
+954,83b77413-8c8a-4af1-93e4-136edb7ff15f,"'Touring-1000 Yellow, 46'",'Yellow','Touring Bikes','Bikes',2384.07,1481.94
+955,5ec991ad-8761-4a61-a318-312df3a78604,"'Touring-1000 Yellow, 50'",'Yellow','Touring Bikes','Bikes',2384.07,1481.94
+956,1220b0f0-064d-46b7-8507-1fa758b77b9c,"'Touring-1000 Yellow, 54'",'Yellow','Touring Bikes','Bikes',2384.07,1481.94
+957,bcd1a5a9-6140-4dc9-9620-689dc7e4c155,"'Touring-1000 Yellow, 60'",'Yellow','Touring Bikes','Bikes',2384.07,1481.94
+958,a3ee6897-52fe-42e4-92ec-7a91e7bb905a,"'Touring-3000 Blue, 54'",'Blue','Touring Bikes','Bikes',742.35,461.44
+959,23d89cee-9f44-4f3e-b289-63de6ba2b737,"'Touring-3000 Blue, 58'",'Blue','Touring Bikes','Bikes',742.35,461.44
+960,060192c9-bcd9-4260-b729-d6bcfadfb08e,"'Touring-3000 Blue, 62'",'Blue','Touring Bikes','Bikes',742.35,461.44
+961,5646c15a-68ad-4234-b328-254706cbccc5,"'Touring-3000 Yellow, 44'",'Yellow','Touring Bikes','Bikes',742.35,461.44
+962,df85e805-af87-4fab-a668-c80f2a5b8a69,"'Touring-3000 Yellow, 50'",'Yellow','Touring Bikes','Bikes',742.35,461.44
+963,192becd1-f465-4194-88a2-ee57fed3a3c5,"'Touring-3000 Yellow, 54'",'Yellow','Touring Bikes','Bikes',742.35,461.44
+964,bed79f64-a53d-44a3-ace8-2baa425a5a54,"'Touring-3000 Yellow, 58'",'Yellow','Touring Bikes','Bikes',742.35,461.44
+965,d28b3872-5173-40a4-b12f-655524386cc7,"'Touring-3000 Yellow, 62'",'Yellow','Touring Bikes','Bikes',742.35,461.44
+966,86990d54-6efb-4c53-9974-6c3b0297e222,"'Touring-1000 Blue, 46'",'Blue','Touring Bikes','Bikes',2384.07,1481.94
+967,68c0a818-2985-46eb-8255-0fb70919fa24,"'Touring-1000 Blue, 50'",'Blue','Touring Bikes','Bikes',2384.07,1481.94
+968,12280a8c-7578-4367-ba71-214bcc1e4792,"'Touring-1000 Blue, 54'",'Blue','Touring Bikes','Bikes',2384.07,1481.94
+969,dd70cf36-449a-43fd-839d-a84ee14c849a,"'Touring-1000 Blue, 60'",'Blue','Touring Bikes','Bikes',2384.07,1481.94
+970,c0009006-715f-4b76-a05a-1a0d3adfb49a,"'Touring-2000 Blue, 46'",'Blue','Touring Bikes','Bikes',1214.85,755.15
+971,84abda8f-0007-4bca-9a61-b2dea58866c3,"'Touring-2000 Blue, 50'",'Blue','Touring Bikes','Bikes',1214.85,755.15
+972,6dcfe2a3-3555-44e4-9116-6f6dbe448b8b,"'Touring-2000 Blue, 54'",'Blue','Touring Bikes','Bikes',1214.85,755.15
+973,237b16d9-53f2-4fd4-befe-48209e57aec3,"'Road-350-W Yellow, 40'",'Yellow','Road Bikes','Bikes',1700.99,1082.51
+974,80bd3f8b-42c7-43d8-91f5-9fb6175287af,"'Road-350-W Yellow, 42'",'Yellow','Road Bikes','Bikes',1700.99,1082.51
+975,0c61e8af-003d-4e4b-b5b7-02f01a26be26,"'Road-350-W Yellow, 44'",'Yellow','Road Bikes','Bikes',1700.99,1082.51
+976,ec4284dc-85fa-44a8-89ec-77fc9b71720a,"'Road-350-W Yellow, 48'",'Yellow','Road Bikes','Bikes',1700.99,1082.51
+977,87b81a1a-a5b5-43d2-a20d-0230800490b9,"'Road-750 Black, 58'",'Black','Road Bikes','Bikes',539.99,343.65
+978,4f638e15-2ed0-4193-90ce-47da580e01dd,"'Touring-3000 Blue, 44'",'Blue','Touring Bikes','Bikes',742.35,461.44
+979,de305b62-88fc-465b-b23d-d8c0f7e6d361,"'Touring-3000 Blue, 50'",'Blue','Touring Bikes','Bikes',742.35,461.44
+980,7a927632-99a4-4f24-adce-0062d2d113d9,"'Mountain-400-W Silver, 38'",'Silver','Mountain Bikes','Bikes',769.49,419.78
+981,0a72791c-a984-4733-ae4e-2b4373cfd7cd,"'Mountain-400-W Silver, 40'",'Silver','Mountain Bikes','Bikes',769.49,419.78
+982,4ea4fe06-aaea-42d4-a9d9-69f6a9a4a042,"'Mountain-400-W Silver, 42'",'Silver','Mountain Bikes','Bikes',769.49,419.78
+983,0b0c8ee4-ff2d-438e-9cac-464783b86191,"'Mountain-400-W Silver, 46'",'Silver','Mountain Bikes','Bikes',769.49,419.78
+984,b96c057b-6416-4851-8d59-bcb37c8e6e51,"'Mountain-500 Silver, 40'",'Silver','Mountain Bikes','Bikes',564.99,308.22
+985,b8d1b5d9-8a39-4097-a04a-56e95559b534,"'Mountain-500 Silver, 42'",'Silver','Mountain Bikes','Bikes',564.99,308.22
+986,e8cec794-e8e2-4312-96a7-4832e573d3fc,"'Mountain-500 Silver, 44'",'Silver','Mountain Bikes','Bikes',564.99,308.22
+987,77ef419f-481f-40b9-bdb9-7e6678e550e3,"'Mountain-500 Silver, 48'",'Silver','Mountain Bikes','Bikes',564.99,308.22
+988,cad60945-183e-4ab3-a70c-3f5bac6bf134,"'Mountain-500 Silver, 52'",'Silver','Mountain Bikes','Bikes',564.99,308.22
+989,28287157-3f06-487b-8531-bee8a37329e4,"'Mountain-500 Black, 40'",'Black','Mountain Bikes','Bikes',539.99,294.58
+990,f5752c9c-56ba-41a7-83fd-139da28c15fa,"'Mountain-500 Black, 42'",'Black','Mountain Bikes','Bikes',539.99,294.58
+991,c7852127-2fb8-4959-b5a3-de5a8d6445e4,"'Mountain-500 Black, 44'",'Black','Mountain Bikes','Bikes',539.99,294.58
+992,75752e26-a3b6-4264-9b06-f23a4fbdc5a7,"'Mountain-500 Black, 48'",'Black','Mountain Bikes','Bikes',539.99,294.58
+993,69ee3b55-e142-4e4f-aed8-af02978fbe87,"'Mountain-500 Black, 52'",'Black','Mountain Bikes','Bikes',539.99,294.58
+994,fa3c65cd-0a22-47e3-bdf6-53f1dc138c43,'LL Bottom Bracket',,'Bottom Brackets','Components',53.99,23.97
+995,71ab847f-d091-42d6-b735-7b0c2d82fc84,'ML Bottom Bracket',,'Bottom Brackets','Components',101.24,44.95
+996,230c47c5-08b2-4ce3-b706-69c0bdd62965,'HL Bottom Bracket',,'Bottom Brackets','Components',121.49,53.94
+997,44ce4802-409f-43ab-9b27-ca53421805be,"'Road-750 Black, 44'",'Black','Road Bikes','Bikes',539.99,343.65
+998,3de9a212-1d49-40b6-b10a-f564d981dbde,"'Road-750 Black, 48'",'Black','Road Bikes','Bikes',539.99,343.65
+999,ae638923-2b67-4679-b90e-abbab17dca31,"'Road-750 Black, 52'",'Black','Road Bikes','Bikes',539.99,343.65
