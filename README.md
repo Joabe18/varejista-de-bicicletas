@@ -202,6 +202,11 @@ Os dados não se agrupam, mas formam segmentos.
 [Link do Colab](https://colab.research.google.com/drive/1LwsSAfidxerjJCLknJPKIWtLCbNNzdSx?usp=sharing)
 <hr>
 
+# Compras por Território
+ Mesmo com os EUA tendo um volume maior de itens comprados, a França possuí um valor maior de consumo.
+
+![ComprasPorTerritorio](https://github.com/Joabe18/varejista-de-bicicletas/assets/87384920/92c7933a-4ee8-4f08-ac3e-525cdeabe861)
+
 ## Algoritmo de Regressão
 Não existe correlação entre as variáveis.
 
@@ -209,11 +214,6 @@ Não existe correlação entre as variáveis.
 
 [Link do Colab](https://colab.research.google.com/drive/14-XYH8lkEwt881jlKAK1EFRWpbzZlWNU?usp=sharing)
 <hr>
-
-# Compras por Território
- Mesmo com os EUA tendo um volume maior de itens comprados, a França possuí um valor maior de consumo.
-
-![ComprasPorTerritorio](https://github.com/Joabe18/varejista-de-bicicletas/assets/87384920/92c7933a-4ee8-4f08-ac3e-525cdeabe861)
 
 # AdventureWorks-for-Postgres
  Repositório criado pela comunidade para converter o AdventureWorks para banco de dados PostgreSQL
